@@ -1,4 +1,5 @@
 Los colores RGB no son ideales para segmentar imágenes. Su principal limitación es que sólo captan datos sobre los tonos rojo, verde y azul,
 ignorando otros puntos cruciales como la textura, la forma o la profundidad. Esto dificulta distinguir objetos con colores similares o identificarlos 
 en espacios con iluminación compleja.Además, los colores RGB son susceptibles a la iluminación y el sonido, lo que puede producir resultados inconsistentes.
-Sumados a la alta dimensionalidad que representan, estos componentes hacen que la segmentación basada sólo en RGB no sea muy positiva.
+Sumados a la alta dimensionalidad que representan, estos componentes hacen que la segmentación basada sólo en RGB no sea muy positiva. Generando que sean dificiles sobre todo en colores 
+con tonalidades y subtonaliddes semejantes.
